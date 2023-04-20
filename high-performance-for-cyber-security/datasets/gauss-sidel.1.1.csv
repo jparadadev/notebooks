@@ -1,0 +1,9 @@
+program,time,threads
+./gauss/gauss-seidel,5.8156657218933105,1
+./gauss/gauss-seidel,5.652266979217529,1
+./gauss/gauss-seidel,5.765498638153076,1
+./gauss/gauss-seidel,5.6296727657318115,1
+./gauss/gauss-seidel,5.787536144256592,1
+./gauss/gauss-seidel,5.594349145889282,1
+./gauss/gauss-seidel,5.685314893722534,1
+./gauss/gauss-seidel,6.213746070861816,1
